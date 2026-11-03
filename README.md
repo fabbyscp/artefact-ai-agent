@@ -47,7 +47,6 @@ artefact-ai-agent/
 │   └── 05_out_of_scope.md
 ├── tests/
 │   └── test_tools.py
-├── .env
 ├── .gitignore
 ├── requirements.txt
 └── README.md
@@ -58,7 +57,7 @@ artefact-ai-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/fabbyscp/artefact-ai-agent.git
 cd artefact-ai-agent
 ```
 
